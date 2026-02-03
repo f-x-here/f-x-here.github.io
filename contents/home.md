@@ -10,7 +10,7 @@ I am always eager to exchange ideas and explore collaborative opportunities. Ple
 #### Education  
 B.S. in Computer Science, Honors College, Hangzhou Dianzi University​ (2023.9 ~ 2027 expected)
 
-#### Publication
+#### Publications
 **Smarter Retrieval, Better Thinking: Adaptive Evidence Retrieval and Parallel Reasoning for RAG**\
 **Kai Wu**, Yuling Wang, Pengfei Jiao, Dalin Zhang, zhe chen, Yuyu Yin, Xiao Wang\
 ICML 2026 (Under Review)
