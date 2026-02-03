@@ -35,9 +35,19 @@ window.addEventListener('DOMContentLoaded', event => {
             const yml = jsyaml.load(text);
             Object.keys(yml).forEach(key => {
                 try {
-                    document.getElementById(key).innerHTML = yml[key];
-                } catch {
-                    console.log("Unknown id and value: " + key + "," + yml[key].toString())
+                    const el = document.getElementById(key);
+                    if (!el) return;
+                    // Normalize and remove zero-width / non-breaking spaces that might be invisible
+                    const raw = yml[key] === undefined || yml[key] === null ? '' : yml[key].toString();
+                    const normalized = raw.replace(/[\u00A0\u200B\uFEFF]/g, ' ');
+                    // If the value contains HTML entities/tags, keep using innerHTML; otherwise use textContent to preserve spaces
+                    if (/<\/?.+>/i.test(normalized) || /&[a-zA-Z]+;/.test(normalized)) {
+                        el.innerHTML = normalized;
+                    } else {
+                        el.textContent = normalized;
+                    }
+                } catch (e) {
+                    console.log("Unknown id and value: " + key + "," + yml[key].toString(), e)
                 }
 
             })

@@ -5,7 +5,7 @@ I’m a junior undergraduate in the Honors College at Hangzhou Dianzi University
 I am always eager to exchange ideas and explore collaborative opportunities. Please feel free to reach out.
 
 #### Email  
-<code>wuikai@hdu.edu.cn</code>  
+<code>wukai@hdu.edu.cn</code>  
 <code>kaiwu618@gmail.com</code>  
 <code>wkkhere@qq.com</code>
 
