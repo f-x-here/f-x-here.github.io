@@ -6,8 +6,6 @@ I am always eager to exchange ideas and explore collaborative opportunities. Ple
 
 #### Email  
 <code>wukai@hdu.edu.cn</code>  
-<code>kaiwu618@gmail.com</code>  
-<code>wkkhere@qq.com</code>
 
 #### Education  
 B.S. in Computer Science, Honors College, Hangzhou Dianzi University​ (2023.9 ~ 2027 expected)
