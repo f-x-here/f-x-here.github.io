@@ -17,8 +17,8 @@ ICML 2026 (Under Review)
 
 **Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attackson Text-Attributed Graphs**\
 Zihui Chen, Yuling Wang, Pengfei Jiao, **Kai Wu**, Xiao Wang, Xiang Ao and Dalin Zhang\
-The Web Conference 2026
+WWW 2026
 
 **RIRAG: A Bi-Directional Retrieval-Enhanced Framework for Financial Legal QA in ObliQA Shared Task​**\
 Xinyan Zhang, Xiaobing Feng, Xiujuan Xu, Zhiliang Zheng, **Kai Wu**\
-In Proceedings of the 1st Regulatory NLP Workshop (RegNLP 2025), pages 107-113. 2025.
+RegNLP 2025
