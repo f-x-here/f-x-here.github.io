@@ -17,7 +17,7 @@ B.S. in Computer Science, Honors College, Hangzhou Dianzi University​ (2023.9 
 **Kai Wu**, Yuling Wang, Pengfei Jiao, Dalin Zhang, zhe chen, Yuyu Yin, Xiao Wang\
 ICML 2026 (Under Review)
 
-**Can LLMs Fool Graph Learning?Exploring Universal Adversarial Attackson Text-Attributed Graphs**\
+**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attackson Text-Attributed Graphs**\
 Zihui Chen, Yuling Wang, Pengfei Jiao, **Kai Wu**, Xiao Wang, Xiang Ao and Dalin Zhang\
 The Web Conference 2026
 
