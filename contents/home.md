@@ -1,6 +1,6 @@
 [![f-x-here](https://img.shields.io/static/v1?label=f-x-here&message=github&color=blue&logo=github&style=flat-square&logoColor=white)](https://github.com/f-x-here)
 
-I’m a junior undergraduate in the Honors College at Hangzhou Dianzi University, majoring in Computer Science.I am currently an undergraduate research intern, fortunate to be advised by Prof. Pengfei Jiao and to receive valuable guidance from Prof. Yuling Wang at NetSCI Lab, HDU. My research focuses on enhancing large language models through advanced techniques, primarily in Retrieval-Augmented Generation (RAG) and the design of autonomous Intelligent Agents.
+I’m a junior undergraduate in the Honors College at Hangzhou Dianzi University, majoring in Computer Science.I am currently an undergraduate research intern, fortunate to be advised by Prof. Pengfei Jiao and to receive valuable guidance from Prof. Yuling Wang at NetSCI Lab, HDU. My research focuses on enhancing large language models through advanced techniques, including but not limited to Retrieval-Augmented Generation (RAG) and the design of autonomous Intelligent Agents.
 
 I am always eager to exchange ideas and explore collaborative opportunities. Please feel free to reach out.
 
