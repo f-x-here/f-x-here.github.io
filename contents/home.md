@@ -22,3 +22,14 @@ WWW 2026
 **RIRAG: A Bi-Directional Retrieval-Enhanced Framework for Financial Legal QA in ObliQA Shared Task​**\
 Xinyan Zhang, Xiaobing Feng, Xiujuan Xu, Zhiliang Zheng, **Kai Wu**\
 RegNLP 2025
+
+#### Awards
+Second Prize, National Undergraduate Mathematical Modeling Contest organized by Higher Education Press, 2025 (Team Leader)
+
+Second Prize, 2025 China Collegiate Computing Design Contest - Zhejiang Province (Unity3D System Lead Programmer)
+
+Third Prize, 16th China College Student Outsourced Service Innovation and Entrepreneurship Competition - Eastern Regional Final (Unity3D System Lead Programmer)
+
+First-Class Scholarship, Academic Year 2024-2025 (Second Semester)
+
+Second-Class Scholarship, Academic Year 2024-2025 (First Semester)
